@@ -25,5 +25,4 @@ The tasks demonstrate the use of **Supervised Learning** techniques for real-wor
 - OpenCV, Tkinter, Streamlit
 
 
-## 📂 Folder Structure
 
